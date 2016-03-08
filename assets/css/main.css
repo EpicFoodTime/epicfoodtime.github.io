@@ -3387,7 +3387,7 @@
 
 		#header > .title {
 			border: 0;
-			color: #ffffff;
+			color: #f0ff00;
 			display: block;
 			font-size: 1.25em;
 			font-weight: bold;
@@ -3432,7 +3432,7 @@
 						}
 
 						#header > nav > ul > li a.active {
-							color: #ffffff;
+							color: #0e09ae;
 						}
 
 		@media screen and (max-width: 736px) {
@@ -3515,7 +3515,7 @@
 
 	#footer > .inner a {
 		border-bottom-color: rgba(255, 255, 255, 0.15);
-	}
+	} 
 
 		#footer > .inner a:hover {
 			border-bottom-color: transparent;
